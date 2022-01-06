@@ -9,7 +9,8 @@ Email: mali34@uoguelph.ca
 Course: CIS*2520
 
 *hash.c, get_idx.c, get_string.c, query.c, set2idx.c, and and.c were provided by the instructor.
--not written by me*
+
+-a6.c is written by me which calls functions from the file mentioned above.
 
 About the program:
 
