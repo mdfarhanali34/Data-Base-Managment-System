@@ -2,8 +2,6 @@
 
 Name: Mohammad Farhan Ali
 
-ID: 1158122
-
 Email: mali34@uoguelph.ca
 
 Course: CIS*2520
